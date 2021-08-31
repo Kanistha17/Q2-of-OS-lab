@@ -1,5 +1,3 @@
-# Q2-of-OS-lab
-Factorial of a number
 #include<stdio.h>  
 int main()    
 {    
